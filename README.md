@@ -25,9 +25,6 @@ Just paste any text you want to be spoken out in the TEXTAREA and press the SPEA
 * [Mousetrap](https://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
 
 
-## Authors
-
-* **Vasanth Selvam** - [therealvasanth](https://github.com/therealvasanth)
 
 ## License
 
